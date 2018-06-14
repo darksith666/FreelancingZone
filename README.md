@@ -16,7 +16,7 @@ Live demo: [https://www.freelancing.zone](https://www.freelancing.zone).
 
 ![Main site](https://i.imgur.com/cWD0uh6.png)
 
-![Login](https://i.imgur.com/uzMTr5d.png)
+![Login](https://i.imgur.com/SkNUX7C.png)
 
 ![Dashboard](https://i.imgur.com/jVTTf5V.png)
 
