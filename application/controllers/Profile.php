@@ -184,8 +184,8 @@ class Profile extends CI_Controller {
 	    $mail->isSMTP();                                      // Set mailer to use SMTP
 	    $mail->Host = 'mail.freelancing.zone';  // Specify main and backup SMTP servers
 	    $mail->SMTPAuth = true;                               // Enable SMTP authentication
-	    $mail->Username = 'info@freelancing.zone';                 // SMTP username
-	    $mail->Password = 'a9dc8j3@WQEF@#$fwdef2RSADF';                           // SMTP password
+	    $mail->Username = '';                 // SMTP username
+	    $mail->Password = '';                           // SMTP password
 	    $mail->SMTPSecure = 'tls';                            // Enable TLS encryption, `ssl` also accepted
 	    $mail->Port = 587;                                    // TCP port to connect to
 
